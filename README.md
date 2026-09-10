@@ -54,15 +54,9 @@ const boubacar = {
 
 ##  Mes projets
 
-### 🏠 [immoclient](https://github.com/boubacarsow-dev/immoclient)
-
-> Interface client pour un site immobilier — HTML, CSS, JavaScript pur
-
----
-
 ### 💰 [tontine](https://github.com/boubacarsow-dev/tontine)
 
-> Application de gestion de tontine — PHP, SQL
+> site web de gestion de tontine en nodejs natif  et mySQL
 
 ---
 
