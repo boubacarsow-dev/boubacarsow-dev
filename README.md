@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 À propos de moi
+## À propos de moi
 
 ```javascript
 const boubacar = {
@@ -33,7 +33,7 @@ const boubacar = {
 
 ---
 
-## 🛠️ Ce que je sais faire
+##  Ce que je sais faire
 
 <div align="center">
 
@@ -52,7 +52,7 @@ const boubacar = {
 
 ---
 
-## 🚀 Mes projets
+##  Mes projets
 
 ### 🏠 [immoclient](https://github.com/boubacarsow-dev/immoclient)
 
@@ -79,7 +79,7 @@ const boubacar = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
