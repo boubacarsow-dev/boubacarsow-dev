@@ -23,10 +23,9 @@ const boubacar = {
   ],
   currentlyLearning: [
     "TypeScript",
-    "Node.js avancé",
+    "Node.js",
     "PHP",
     "SQL",
-    "Bases de données"
   ]
 };
 ```
