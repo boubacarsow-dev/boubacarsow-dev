@@ -57,7 +57,7 @@ const boubacar = {
 
 > site web de gestion de tontine en nodejs natif  et mySQL
 
-### [gestion-suivi-client] (https://github.com/boubacarsow-dev/gestion-suivi-client)
+### [gestion-suivi-client](https://github.com/boubacarsow-dev/gestion-suivi-client)
 > plateforme de gestion clientele en php natif pour apprendre comment fonctionne le MVC
 ---
 
